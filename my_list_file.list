@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/my_ppa.gpg] https://.github.io/my_ppa ./
+deb [signed-by=/etc/apt/trusted.gpg.d/SAE_Systeme.gpg] https://.github.io/SAE_Systeme ./
