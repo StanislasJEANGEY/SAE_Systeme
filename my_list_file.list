@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/SAE_Systeme.gpg] https://.github.io/SAE_Systeme ./
+deb [signed-by=/etc/apt/trusted.gpg.d/SAE_Systeme.gpg] https://StanislasJEANGEY.github.io/SAE_Systeme ./
