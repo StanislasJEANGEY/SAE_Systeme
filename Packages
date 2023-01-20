@@ -1,0 +1,14 @@
+Package: mbash
+Version: 1.0
+Architecture: all
+Essential: no
+Maintainer: sae
+Filename: ./package.deb
+Size: 4696
+MD5sum: 681536c917b95e311ef0d66bcf685e78
+SHA1: 9d3b33fd93881bf04baef23e0731210d2694b5d2
+SHA256: 4968e20687b9c6719b8717210b1de9217a91e91946c8d93443f5df14608c5ec7
+Priority: optional
+Description: pour le serveur sae
+Session: x11;
+
